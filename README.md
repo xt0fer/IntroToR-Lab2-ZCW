@@ -34,3 +34,4 @@ And how many of these can you get done in 2 days?
 13: Simulation                14: Dates and Times         
 15: Base Graphics             
 ```
+At the end of each section, email confirmation of completion to the email address which was given to you during the demo lecture of this material. 
