@@ -1,4 +1,4 @@
-# IntroToR-ZCW
+# IntroToR-Lab2-ZCW
 First R Lab, notebook tutorials.
 
 
